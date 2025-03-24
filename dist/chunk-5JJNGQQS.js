@@ -1,11 +1,11 @@
 import {
+  prisma_default
+} from "./chunk-5F66JELK.js";
+import {
   generateAccessToken,
   generateRefreshToken,
   getErrorMessage
 } from "./chunk-AJCKH6CJ.js";
-import {
-  prisma_default
-} from "./chunk-2JXIPJR2.js";
 
 // src/controllers/auth/registerController.ts
 import bcrypt from "bcryptjs";

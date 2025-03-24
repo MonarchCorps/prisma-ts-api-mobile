@@ -1,18 +1,18 @@
 import {
   authRoute_default
-} from "./chunk-U7AWDF6Q.js";
+} from "./chunk-PDCTSUPM.js";
 import {
   registerRoute_default
-} from "./chunk-2WBII6KU.js";
+} from "./chunk-4ZKTO4B6.js";
 import {
   verifyJWT_default
 } from "./chunk-SWULDUKP.js";
-import "./chunk-VEKTTKLG.js";
-import "./chunk-MW7TESTX.js";
-import "./chunk-AJCKH6CJ.js";
+import "./chunk-NZLVYRNR.js";
+import "./chunk-5JJNGQQS.js";
 import {
   prisma_default
-} from "./chunk-2JXIPJR2.js";
+} from "./chunk-5F66JELK.js";
+import "./chunk-AJCKH6CJ.js";
 
 // src/index.ts
 import dotenv from "dotenv";

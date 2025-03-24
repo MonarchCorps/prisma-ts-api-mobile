@@ -1,5 +1,6 @@
 // src/prisma/index.ts
-import { PrismaClient } from "@prisma/client";
+import pkg from "@prisma/client";
+var { PrismaClient } = pkg;
 var prisma = new PrismaClient();
 var prisma_default = prisma;
 

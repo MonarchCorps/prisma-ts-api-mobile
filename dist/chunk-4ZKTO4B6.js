@@ -1,6 +1,6 @@
 import {
   register
-} from "./chunk-MW7TESTX.js";
+} from "./chunk-5JJNGQQS.js";
 
 // src/routes/auth/registerRoute.ts
 import express from "express";
