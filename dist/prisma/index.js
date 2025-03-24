@@ -1,3 +1,6 @@
-import { PrismaClient } from "@prisma/client";
-const prisma = new PrismaClient();
-export default prisma;
+import {
+  prisma_default
+} from "../chunk-2JXIPJR2.js";
+export {
+  prisma_default as default
+};
